@@ -1,0 +1,6 @@
+treatment_type,PatientCount,Revenue
+Chemotherapy,246,662548.04
+ECG,188,509745.97
+MRI,175,535296.48
+Physiotherapy,184,491818.42
+X-Ray,209,548881.25
